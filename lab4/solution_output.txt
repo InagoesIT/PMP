@@ -1,0 +1,43 @@
+The probability obtained with alpha = 0.01 is 0.13007286264941578
+The probability obtained with alpha = 0.035 is 0.3894352893713689
+The probability obtained with alpha = 0.060000000000000005 is 0.5679946802396382
+The probability obtained with alpha = 0.085 is 0.6953586070857989
+The probability obtained with alpha = 0.11000000000000001 is 0.7863735411010282
+The probability obtained with alpha = 0.135 is 0.8483487162724949
+The probability obtained with alpha = 0.16 is 0.8923430608976831
+The probability obtained with alpha = 0.185 is 0.9248137867881229
+The probability obtained with alpha = 0.186 is 0.9261570178955986
+The probability obtained with alpha = 0.187 is 0.9262448750953644
+The probability obtained with alpha = 0.188 is 0.9276865718172623
+The probability obtained with alpha = 0.189 is 0.9296827318405805
+The probability obtained with alpha = 0.19 is 0.9301491693952532
+The probability obtained with alpha = 0.191 is 0.9307842481138078
+The probability obtained with alpha = 0.192 is 0.9316212471492247
+The probability obtained with alpha = 0.193 is 0.9330720617306056
+The probability obtained with alpha = 0.194 is 0.9328277963229721
+The probability obtained with alpha = 0.195 is 0.9344893123983801
+The probability obtained with alpha = 0.196 is 0.9360789352300617
+The probability obtained with alpha = 0.197 is 0.9362133515274298
+The probability obtained with alpha = 0.198 is 0.9367129565259574
+The probability obtained with alpha = 0.199 is 0.9369333989015229
+The probability obtained with alpha = 0.2 is 0.9383584739091777
+The probability obtained with alpha = 0.201 is 0.939792115279344
+The probability obtained with alpha = 0.202 is 0.9406930736527273
+The probability obtained with alpha = 0.203 is 0.9412755276999071
+The probability obtained with alpha = 0.20400000000000001 is 0.9414499186133045
+The probability obtained with alpha = 0.20500000000000002 is 0.9429970731345604
+The probability obtained with alpha = 0.20600000000000002 is 0.9439296998248732
+The probability obtained with alpha = 0.20700000000000002 is 0.9431926276522526
+The probability obtained with alpha = 0.20800000000000002 is 0.9447358701923773
+The probability obtained with alpha = 0.20900000000000002 is 0.9467387817569386
+The probability obtained with alpha = 0.21000000000000002 is 0.9460954834931284
+The probability obtained with alpha = 0.21100000000000002 is 0.9471817675282178
+The probability obtained with alpha = 0.21200000000000002 is 0.947757163368689
+The probability obtained with alpha = 0.21300000000000002 is 0.9480925740765153
+The probability obtained with alpha = 0.21400000000000002 is 0.949807022528832
+The probability obtained with alpha = 0.21500000000000002 is 0.9503003751909659
+The probability obtained with alpha = 0.21600000000000003 is 0.9513925450106608
+
+-----Solution------
+The maximum alpha for getting the probability of serving all the clients less than in 15 min is: 
+            0.21600000000000003 and the probability obtained is: 0.9503003751909659
